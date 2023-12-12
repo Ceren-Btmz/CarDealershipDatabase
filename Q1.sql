@@ -1,1 +1,1 @@
-SELECT Dealerships From elitemotors
+SELECT Dealerships From elitemotors;
